@@ -1,6 +1,6 @@
-# YouApp - Modern Dating Profile App 🚀
+# YouApp - Modern Profile App 🚀
 
-A beautiful, responsive mobile-first dating profile application built with Next.js 14, TypeScript, and Tailwind CSS. Features include user authentication, profile management, interest matching, and zodiac compatibility.
+A beautiful, responsive mobile-first profile application built with Next.js 14, TypeScript, and Tailwind CSS. Features include user authentication, profile management, interest matching, and zodiac compatibility.
 
 
 ## ✨ Features
