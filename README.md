@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/yourusername/youapp.git
+git clone (https://github.com/Abdullahbadres/testyou.git)
 cd youapp
 \`\`\`
 
@@ -288,7 +288,8 @@ The app can be deployed to any platform that supports Next.js:
 - **Heroku**
 - **AWS Amplify**
 
-## 🛠️ Development
+## 🛠️ Deploy Page
+https://testyouapp.vercel.app/
 
 ### Available Scripts
 
